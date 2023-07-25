@@ -1,0 +1,13 @@
+body {
+    background-image: url("../images/vintage-textured-watercolor-paper-background.jpg");
+    background-size: cover;
+    overflow-y: scroll;
+}
+
+.transparentbg {
+    background: transparent;
+}
+
+#instructions {
+    list-style-type: none;
+}
